@@ -1,0 +1,36 @@
+body {
+    margin-bottom: 10px; /* Adjust the margin between paragraphs */
+  }
+
+h2 {
+    font-size: 30px;
+    font-family: "Titillium";
+}
+
+.Profile-p {
+    margin-bottom: 0px;
+}
+
+.paragraph-container {
+    margin-bottom: -20px; /* Adjust the margin between paragraphs */
+  }
+
+.font-face-wicked {
+    font-family: "Wicked";
+}
+
+.font-face-league {
+    font-family: "League";
+}
+
+.font-face-titillium {
+    font-family: "Titillium";
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    max-width: 700px;
+}

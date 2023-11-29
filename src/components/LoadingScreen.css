@@ -1,0 +1,26 @@
+/* LoadingScreen.css */
+@keyframes spin {
+    0% { transform: rotate(0deg) scale(1); }
+    50% { transform: rotate(180deg) scale(1.2); }
+    100% { transform: rotate(360deg) scale(1); }
+  }
+  
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+  }
+  
+  .loading-screen {
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    height: 100vh;
+  }
+  
+  .spinning-pow {
+    width: 50%;
+    height: 30%;
+    display: inline;
+    animation: spin 1s infinite, breathe 1s infinite;
+  }
+  
