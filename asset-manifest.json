@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.44edec5c.css",
+    "main.js": "/Portfolio/static/js/main.6981a438.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dunes.jpg": "/Portfolio/static/media/dunes.fbf09df7b6bf8f8c4b12.jpg",
+    "static/media/TitilliumWeb-Regular.ttf": "/Portfolio/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/Wicked.otf": "/Portfolio/static/media/Wicked.f0105b5f5ecddbca01a3.otf",
+    "static/media/TitilliumWeb-Black.ttf": "/Portfolio/static/media/TitilliumWeb-Black.b06b28a5ea3d6c76e3f2.ttf",
+    "static/media/blockletter.regular.otf": "/Portfolio/static/media/blockletter.regular.1148b96b8d22acea8b8c.otf",
+    "static/media/BLOCKY.TTF": "/Portfolio/static/media/BLOCKY.cb829af0ad882093769c.TTF",
+    "static/media/LeagueSpartan-Bold.otf": "/Portfolio/static/media/LeagueSpartan-Bold.caadcad8af387d419251.otf",
+    "index.html": "/Portfolio/index.html",
+    "main.44edec5c.css.map": "/Portfolio/static/css/main.44edec5c.css.map",
+    "main.6981a438.js.map": "/Portfolio/static/js/main.6981a438.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44edec5c.css",
+    "static/js/main.6981a438.js"
+  ]
+}
